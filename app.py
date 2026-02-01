@@ -21,5 +21,7 @@ section, answer = retrieve_section(question, manual_sections)
 print("\nAnswer:")
 if answer:
     print(answer)
+    print(f"Source: {section.title()} section")
 else:
     print("Information not available in the manual.")
+
