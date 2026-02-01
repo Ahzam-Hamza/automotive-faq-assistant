@@ -1,0 +1,15 @@
+Car Model: Toyota Corolla 2020
+
+Engine Oil:
+Use SAE 5W-30 engine oil.
+Change engine oil every 10,000 km or 6 months.
+
+Tire Pressure:
+Front tires: 32 PSI
+Rear tires: 30 PSI
+
+Battery:
+Battery life is typically 3 to 5 years.
+
+Warranty:
+Standard warranty is 3 years or 100,000 km.
