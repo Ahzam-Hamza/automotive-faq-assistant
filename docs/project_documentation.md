@@ -65,3 +65,11 @@ For this prototype, a sample vehicle manual (Toyota Corolla 2020) is used. The s
 
 ## 10. Conclusion
 This project demonstrates how Generative AI can be effectively used to simplify access to automotive information. The prototype serves as a strong foundation for building a more advanced automotive assistance system.
+
+
+## 11. Creative / Unique Feature: Source-Aware Answering
+
+One unique feature of this project is its source-aware response mechanism.  
+Instead of generating generic answers, the assistant explicitly bases every response on a specific section of the vehicle manual (such as Engine Oil, Tire Pressure, or Warranty).
+
+This approach improves trust, reduces hallucination, and ensures that users receive accurate and verifiable information. It also makes the system suitable for safety-critical domains like automotive assistance.
