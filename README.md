@@ -1,10 +1,10 @@
-# Automotive FAQ Assistant 🚗
+# Automotive FAQ Assistant 
 
 An AI-powered Automotive FAQ Assistant designed to answer vehicle-related queries using car manual data and intelligent information retrieval.
 
 This project demonstrates the practical implementation of Generative AI and Retrieval-Augmented Generation (RAG) to build a domain-specific assistant.
 
-👤 Developer
+Developer
 
 Ahzam
 
@@ -40,7 +40,7 @@ This architecture follows a Retrieval-Augmented Generation (RAG) approach to ens
 
 Note: This project focuses on practical implementation and educational demonstration of domain-specific AI systems.
 
-🏗️ Architecture
+Architecture
 🔹 Backend
 
 Framework: FastAPI
@@ -97,7 +97,7 @@ automotive-faq-assistant/
     │   └── App.jsx
     ├── package.json
     └── vite.config.js
-⚙️ Backend Setup Instructions
+Backend Setup Instructions
 1️⃣ Create Virtual Environment
 python -m venv venv
 2️⃣ Activate Virtual Environment (Windows)
@@ -110,7 +110,7 @@ python -m uvicorn app.main:app --reload
 Backend will be available at:
 
 http://localhost:8000
-🌐 Frontend Setup Instructions
+Frontend Setup Instructions
 1️⃣ Navigate to Frontend Folder
 cd frontend
 2️⃣ Install Dependencies
@@ -121,8 +121,8 @@ npm run dev
 Frontend will be available at:
 
 http://localhost:5173
-🔌 API Endpoints
-🔹 Health Check
+API Endpoints
+ Health Check
 GET /
 
 Response:
@@ -136,7 +136,7 @@ GET /api/v1/vin/{vin_number}
 
 Returns decoded vehicle information.
 
-🛡️ Features Implemented
+Features Implemented
 
 FastAPI backend architecture
 
@@ -152,8 +152,8 @@ React frontend setup
 
 Frontend-backend connectivity
 
-🧪 Development Status
-✅ Completed
+Development Status
+Completed
 
 Backend architecture
 
@@ -167,7 +167,7 @@ React project setup
 
 Node.js installation
 
-⏳ In Progress
+In Progress
 
 VIN UI integration
 
@@ -177,7 +177,7 @@ UI improvements
 
 Enhanced error handling
 
-🛠️ Technologies Used
+Technologies Used
 
 Python
 
@@ -193,7 +193,7 @@ JavaScript
 
 HTML/CSS
 
-📌 Future Improvements
+Future Improvements
 
 Better UI styling
 
@@ -208,11 +208,11 @@ Authentication system
 FAQ search feature
 
 
-📄 License
+License
 
 This project is for educational and portfolio purposes.
 
-🎯 Final Notes
+Final Notes
 
 This project demonstrates:
 
@@ -225,6 +225,7 @@ Frontend-backend communication
 Modern JavaScript and Python frameworks
 
 Environment setup & debugging skills
+
 
 
 
