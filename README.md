@@ -31,6 +31,15 @@ This project focuses on:
 
 This architecture follows a Retrieval-Augmented Generation (RAG) approach to ensure relevant and context-aware answers.
 
+## AI & Retrieval Details
+
+- The system uses a Generative AI model to generate responses to user queries.
+- Vehicle-related data is structured and used as contextual input.
+- The backend retrieves relevant information before generating responses.
+- The design follows a Retrieval-Augmented Generation (RAG)-style workflow.
+
+Note: This project focuses on practical implementation and educational demonstration of domain-specific AI systems.
+
 🏗️ Architecture
 🔹 Backend
 
@@ -216,6 +225,7 @@ Frontend-backend communication
 Modern JavaScript and Python frameworks
 
 Environment setup & debugging skills
+
 
 
 
