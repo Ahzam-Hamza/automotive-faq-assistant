@@ -21,6 +21,16 @@ This project focuses on:
 - Retrieval-based response generation
 - Practical implementation of AI in real-world use cases
 
+## How It Works
+
+1. The user submits a vehicle-related question through the frontend interface.
+2. The request is sent to the FastAPI backend via REST API.
+3. The backend processes the query and retrieves relevant information from structured car manual data.
+4. The retrieved context is used to generate a meaningful and domain-specific response.
+5. The response is returned to the frontend and displayed to the user.
+
+This architecture follows a Retrieval-Augmented Generation (RAG) approach to ensure relevant and context-aware answers.
+
 🏗️ Architecture
 🔹 Backend
 
@@ -206,6 +216,7 @@ Frontend-backend communication
 Modern JavaScript and Python frameworks
 
 Environment setup & debugging skills
+
 
 
 
