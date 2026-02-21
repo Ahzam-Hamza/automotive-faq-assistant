@@ -11,17 +11,15 @@ Ahzam
 Platform: Windows
 Editor: VS Code
 
-🚀 Project Overview
+## Project Overview
 
-The Automotive FAQ Assistant is designed to:
+The Automotive FAQ Assistant allows users to ask vehicle-related questions in natural language.  
+The system retrieves relevant information from structured car manual data and generates clear, context-aware responses.
 
-Provide automotive-related FAQ services
-
-Decode and process VIN (Vehicle Identification Number)
-
-Demonstrate full-stack architecture using modern technologies
-
-Showcase API development and frontend-backend integration
+This project focuses on:
+- Domain-specific AI assistant design
+- Retrieval-based response generation
+- Practical implementation of AI in real-world use cases
 
 🏗️ Architecture
 🔹 Backend
@@ -208,5 +206,6 @@ Frontend-backend communication
 Modern JavaScript and Python frameworks
 
 Environment setup & debugging skills
+
 
 
