@@ -1,4 +1,6 @@
-Automotive FAQ Assistant
+# Automotive FAQ Assistant 🚗
+
+An AI-powered Automotive FAQ Assistant designed to answer vehicle-related queries using car manual data and intelligent information retrieval.
 
 A full-stack web application that provides automotive FAQ and VIN decoding services using FastAPI (backend) and React + Vite (frontend).
 
@@ -206,3 +208,4 @@ Frontend-backend communication
 Modern JavaScript and Python frameworks
 
 Environment setup & debugging skills
+
